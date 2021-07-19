@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MetanteiCKS
+- 👋 Hi, I’m @Cheikhoul
 - 👀 I’m interested in AI and data sciences
 - 📫 How to reach me? mailto : cheikhoulkhadimseck@gmail.com
 
