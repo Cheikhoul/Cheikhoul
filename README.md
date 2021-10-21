@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cheikhoul
-- 👀 I’m interested in AI and data sciences
+- 👀 I’m interested in Web Technologies, AI and Data Science
 - 📫 How to reach me? mailto : cheikhoulkhadimseck@gmail.com
 
 <!---
